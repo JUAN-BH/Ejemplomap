@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+  <key id="2" />
+  <persona nombre="valentina" identificacion="2179737" edad="34" />
+  <persona nombre="magara" identificacion="217894" edad="32" />
+  <persona nombre="isabel" identificacion="2178489" edad="23" />
+  <persona nombre="maryanne" identificacion="217948" edad="54" />
+  <key id="3" />
+  <persona nombre="manolo" identificacion="2175775" edad="20" />
+  <persona nombre="lipa" identificacion="2173453" edad="24" />
+  <persona nombre="pipe" identificacion="2173543" edad="18" />
+  <persona nombre="alex" identificacion="2173453" edad="23" />
+</personas>
